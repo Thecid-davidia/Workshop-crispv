@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en" data-bs-theme="auto">
 <head>
-  <?php include_once "./dist/conf/head.php"; ?>
+  <?php include_once "./conf/head.php"; ?>
   <title>Cris Pv Workshop</title>
 </head>
 <body>
