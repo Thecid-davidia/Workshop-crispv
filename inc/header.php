@@ -4,6 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="David Ibarra">
     <link href="./dist/css/bootstrap.min.css" rel="stylesheet">
+    <title> <?php $App_name ?> </title>
 <!---->
     <style>
         .b-example-divider {
